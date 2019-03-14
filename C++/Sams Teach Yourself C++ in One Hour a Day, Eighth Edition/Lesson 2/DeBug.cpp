@@ -1,5 +1,7 @@
 #include <iostream>
-void main()
+int main()
 {
-    std::Cout << Is there a bug here?";
+    std::cout << "Is there a bug here?";
+
+    return 0;
 }
